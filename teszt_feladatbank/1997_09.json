@@ -1,0 +1,91 @@
+[
+  {
+    "id": "C.473",
+    "problem": "Előfordulhat-e egy naptári évben, hogy egyetlen vasárnap sem esik hetedikére?"
+  },
+  {
+    "id": "C.474",
+    "problem": "Egy gyalogos $3,5$ órát gyalogolt. Bármely $1$ órás időszak alatt $5 \\ \\text{km}$ utat tett meg. Lehet-e az átlagsebessége nagyobb, mint $5 \\ \\text{km/óra}$?"
+  },
+  {
+    "id": "C.475",
+    "problem": "Az $ABC$ háromszög $CC_1$ súlyvonalán vegyük fel azt a $P$ pontot, amelyre $m \\cdot AP = n \\cdot BP$ ($m,n$ tetszőleges egész számok). Milyen arányban osztja $P$ az $AP$, illetve a $BP$ egyenesnek a háromszögbe eső szakaszát?"
+  },
+  {
+    "id": "C.476",
+    "problem": "Egy egyenes kúp alapkörének átmérője és alkotója is $20 \\ \\text{cm}$. Legfeljebb milyen hosszú öntapadó csík ragasztható a kúp palástjára gyűrődés, szakadás (vágás) és átfedés nélkül, ha a csík szélessége $2 \\ \\text{cm}$?"
+  },
+  {
+    "id": "Gy.3142",
+    "problem": "Melyik az a legkisebb $28$-cal osztható pozitív egész szám, amelynek a tízes számrendszerbeli alakja $28$-ra végződik, és számjegyeinek összege $28$?"
+  },
+  {
+    "id": "Gy.3143",
+    "problem": "Rajzoljunk a síkra egy sakktáblát. Legyen a fehér mezők középpontja $A_1, A_2, \\ldots, A_{32}$, a fekete mezők középpontja $B_1, B_2, \\ldots, B_{32}$, $P$ pedig a sakktábla egy tetszőleges pontja. Bizonyítsuk be, hogy\n$$A_1P^2 + A_2P^2 + \\cdots + A_{32}P^2 = B_1P^2 + B_2P^2 + \\cdots + B_{32}P^2.$$"
+  },
+  {
+    "id": "Gy.3144",
+    "problem": "Felírható-e a $\\tfrac{7}{17}$ szám $\\tfrac{1}{a} + \\tfrac{1}{b}$ alakban, ahol $a$ és $b$ pozitív egészek?"
+  },
+  {
+    "id": "Gy.3145",
+    "problem": "Oldjuk meg az alábbi egyenlőtlenséget: $\\frac{x^2-1}{x+2} < 2$."
+  },
+  {
+    "id": "Gy.3146",
+    "problem": "Egy derékszögű háromszög befogói $a$ és $b$, beírható körének sugara pedig $r$. Mutassuk meg, hogy\n$$r = \\frac{a+b-c}{2}.$$"
+  },
+  {
+    "id": "Gy.3147",
+    "problem": "Legyen egy szabályos hatszög belső $P$ pontján átmenő $e$ egyenes párhuzamos a hatszög egyik oldalával. Húzzunk $P$-n át még öt egyenest úgy, hogy az összesen hat egyenes közül bármely két szomszédos $30^\\circ$-os szöget zárjon be. Az egyenesek a hatszöget $12$ részre osztják. Mutassuk meg, hogy e $12$ rész három csoportba osztható úgy, hogy az egyes csoportokban lévő részek területeinek összege megegyezik."
+  },
+  {
+    "id": "Gy.3148",
+    "problem": "Legyen $e_1, e_2, e_3$ egy kocka három kitérő éle. Határozzuk meg az $E_1E_2E_3$ háromszögek súlypontjainak halmazát, ha $E_i$ az $e_i$ él egy pontja ($i=1,2,3$)."
+  },
+  {
+    "id": "Gy.3149",
+    "problem": "Az $ABC$ háromszög $AB$ oldala $1$ egység, a rajta levő szögek pedig $15^\\circ$ és $60^\\circ$. Határozzuk meg a háromszög másik két oldalának hosszát trigonometrikus függvények használata nélkül."
+  },
+  {
+    "id": "F.3184",
+    "problem": "Bizonyítsuk be, hogy ha $x^2+y^2+z^2 = (x+y+z)^2$, akkor $x=y=z$."
+  },
+  {
+    "id": "F.3185",
+    "problem": "Bizonyítsuk be, hogy az $1$-nél nem kisebb számokra értelmezett\n$$a \\ast b = \\frac{ab}{a+b-1}$$\nművelet asszociatív."
+  },
+  {
+    "id": "F.3186",
+    "problem": "Tegyük fel, hogy a nemnegatív $x,y,z$ számokra teljesül:\n$$f(x,y)+f(y,z)+f(z,x)=0, \\quad \\text{ha } x+y+z=0.$$\nBizonyítsuk be, hogy $f$ azonosan nulla függvény."
+  },
+  {
+    "id": "F.3187",
+    "problem": "Melyek azok a háromszögek, amelyekre $a^2+b^2+c^2=8R^2$, ahol $a,b,c$ a háromszög oldalainak, $R$ a körülírt kör sugarának hosszát jelöli?"
+  },
+  {
+    "id": "F.3188",
+    "problem": "Adott az $O$ középpontú kör egy $A$ pontja és egy $O$-n átmenő $d$ egyenes. Egy $A$-ból induló szelő a kört $B$-ben, a $d$-t $D$-ben metszi. Bizonyítsuk be, hogy ha a szelő $A$ körül forog, bármely helyzete esetén az $O$, $B$, $D$ pontokon átmenő kör $O$-n kívül átmegy még egy fix ponton."
+  },
+  {
+    "id": "F.3189",
+    "problem": "Egy háromszög szögei $\\alpha,\\beta,\\gamma$. Bizonyítsuk be, hogy\n$$\\tan^2 \\alpha + \\tan^2 \\beta + \\tan^2 \\gamma = \\tan \\alpha \\cdot \\tan \\beta \\cdot \\tan \\gamma.$$"
+  },
+  {
+    "id": "N.144",
+    "problem": "Legyen $n$ tetszőleges pozitív egész. Mutassuk meg, hogy $2^{3n} \\cdot (3n)!$ osztható $n!(n+1)!(n+2)!$-sal."
+  },
+  {
+    "id": "N.145",
+    "problem": "Van-e olyan $f(x,y,z)$ valós együtthatós polinom, amely pontosan akkor pozitív, ha az $|x|, |y|, |z|$ hosszúságú szakaszokból háromszög szerkeszthető?"
+  },
+  {
+    "id": "N.146",
+    "problem": "Igazoljuk, hogy a $(0,1)$ intervallumba eső tetszőleges páratlan nevezőjű $r$ racionális számhoz találhatók olyan $x,y,z$ egészek, hogy\n$$\\frac{1}{x} + \\frac{1}{y} + \\frac{1}{z} = r.$$"
+  },
+  {
+    "id": "N.147",
+    "problem": "Igaz-e, hogy tetszőleges tetraéder lapjain van egy-egy olyan belső pont, hogy azok egy szabályos tetraéder csúcsai?"
+  }
+]
+
