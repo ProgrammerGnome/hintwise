@@ -6,14 +6,14 @@
     android:gravity="center">
 
     <TextView
-        android:id="@+id/textViewSecond"
+        android:id="@+id/textViewThird"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/second_fragment" />
+        android:text="@string/third_fragment" />
 
     <Button
         android:layout_marginTop="550dp"
-        android:id="@+id/button_second"
+        android:id="@+id/button_third"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/previous" />

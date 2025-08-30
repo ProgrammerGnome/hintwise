@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# API kulcs fájl
+/app/src/main/assets/apikey.txt
+
