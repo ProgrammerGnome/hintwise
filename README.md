@@ -8,7 +8,7 @@ Simple Android app providing hints for KöMaL problems that inspire creative thi
   - Hints only present the *necessary background knowledge* for solving the task.  
   - No explicit solution strategy is revealed.  
   - Uses the free and public **Google Gemini API** to generate the hints.
-  - Gemini API rate models and limits: https://ai.google.dev/gemini-api/docs/rate-limits
+  - Gemini models and API rate limits: https://ai.google.dev/gemini-api/docs/rate-limits
 
 ## Project status
 This project is in an **early development phase**.  
